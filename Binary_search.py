@@ -13,5 +13,5 @@ def binary_search(data, target):
 
 
 rand_list = [n for n in range(1, 21)]
-print(rand_list)
+print(rand_list)  # для наглядности вывода
 print(binary_search(rand_list, 16))
